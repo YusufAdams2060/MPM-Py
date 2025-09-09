@@ -5,3 +5,4 @@ description = "MPM-Py: A program for learning the Material Point Method using Py
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
